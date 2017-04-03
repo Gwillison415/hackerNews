@@ -133,5 +133,7 @@ Let's fix it.
 
 * when the results are returned from the api, the "loading..." string should go away and we should be able to see the results.
 
+* Add caching of the ajax query to HackerNews. If the user has already searched for a term, use the previous results, otherwise make an API call and cache the results.
+
 ### Stretch goal. As a pair:
 * add a dismiss button for each result. When the user clicks on dismiss, that result should be removed from the UI.
