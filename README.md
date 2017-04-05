@@ -125,6 +125,8 @@ Now let's see what happens when I change the search input.
 Let's fix it.
 
 ### Now pair up and work on the following challenge:
+Fork this repo. Checkout the solution branch. Commit any changes you make your fork of this repo.
+
 * Upon clicking the More button, fetch the next page of results.
 
 * When there are no results, the table should show "No result"
