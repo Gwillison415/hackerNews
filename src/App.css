@@ -5,3 +5,8 @@
 .interactions {
   text-align: center;
 }
+
+.list-container{ 
+  border: 2px solid blue;
+  background-color: aqua
+}
